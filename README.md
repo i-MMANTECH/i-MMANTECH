@@ -1,21 +1,36 @@
 <!--
   GitHub Profile README for @i-MMANTECH
-  Drop this file into a repository named exactly `i-MMANTECH` (matching your username).
-  File path inside the repo must be `README.md` at the root.
+  Lives in the repository i-MMANTECH/i-MMANTECH at README.md (root).
+  Every theme-sensitive element uses <picture> with prefers-color-scheme
+  so the profile renders correctly whether the visitor is on GitHub dark
+  or light mode.
 -->
 
 <div align="center">
 
-<!-- ============== HERO ============== -->
+<!-- ============================================================== -->
+<!-- HERO — theme-adaptive typing animation                          -->
+<!-- ============================================================== -->
 <a href="https://github.com/i-MMANTECH">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0B0B0C&background=FFFFFF00&center=true&vCenter=true&width=720&lines=Emmanuel+Aro+%E2%80%94+Full+Stack+Engineer;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
-    alt="Emmanuel Aro — Full Stack Engineer"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=F2F2F2&background=00000000&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Full+Stack+Engineer;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0B0B0C&background=FFFFFF00&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Full+Stack+Engineer;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0B0B0C&background=FFFFFF00&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Full+Stack+Engineer;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
+      alt="Emmanuel Aro — Full Stack Engineer · Systems. Platforms. Applied AI."
+    />
+  </picture>
 </a>
 
 <br/>
 
+<!-- Status badges — dark graphite reads correctly on both themes -->
 <p>
   <img src="https://img.shields.io/badge/LOCATION-LAGOS%2C%20NG-0B0B0C?style=flat-square&labelColor=0B0B0C&color=0B0B0C" alt="Location" />
   <img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20%2B%20AI%2FML-1E1E20?style=flat-square&labelColor=0B0B0C&color=1E1E20" alt="Role" />
@@ -67,7 +82,29 @@ I'm a Full Stack Engineer building scalable, production-grade platforms at the i
 
 ## // technical stack
 
-<details open>
+<div align="center">
+
+<!-- Primary stack grid — skillicons, theme-adaptive -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=python,django,fastapi,ts,nextjs,react,tailwind,postgres,mysql,docker,aws,git,postman,tensorflow,sklearn,opencv,nodejs,laravel,php,linux&perline=10&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=python,django,fastapi,ts,nextjs,react,tailwind,postgres,mysql,docker,aws,git,postman,tensorflow,sklearn,opencv,nodejs,laravel,php,linux&perline=10&theme=light"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=python,django,fastapi,ts,nextjs,react,tailwind,postgres,mysql,docker,aws,git,postman,tensorflow,sklearn,opencv,nodejs,laravel,php,linux&perline=10&theme=dark"
+    alt="Technical stack"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+<details>
 <summary><b>Backend &amp; APIs</b></summary>
 <br/>
 
@@ -81,7 +118,7 @@ I'm a Full Stack Engineer building scalable, production-grade platforms at the i
 
 </details>
 
-<details open>
+<details>
 <summary><b>Frontend &amp; UI Systems</b></summary>
 <br/>
 
@@ -93,7 +130,7 @@ I'm a Full Stack Engineer building scalable, production-grade platforms at the i
 
 </details>
 
-<details open>
+<details>
 <summary><b>AI / ML &amp; Applied Research</b></summary>
 <br/>
 
@@ -105,7 +142,7 @@ I'm a Full Stack Engineer building scalable, production-grade platforms at the i
 
 </details>
 
-<details open>
+<details>
 <summary><b>Infrastructure &amp; DevOps</b></summary>
 <br/>
 
@@ -124,50 +161,120 @@ I'm a Full Stack Engineer building scalable, production-grade platforms at the i
 
 <div align="center">
 
-<!-- stats card + top-langs side by side -->
+<!-- Stats + Top Languages — theme-adaptive -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=i-MMANTECH&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="Emmanuel's GitHub stats"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=i-MMANTECH&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=i-MMANTECH&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B0B0C&icon_color=0B0B0C&text_color=2A2A2E&include_all_commits=true&count_private=true&rank_icon=github"
+    />
+    <img
+      height="175"
+      src="https://github-readme-stats.vercel.app/api?username=i-MMANTECH&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+      alt="Emmanuel's GitHub stats"
+    />
+  </picture>
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-MMANTECH&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8"
-    alt="Most used languages"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=i-MMANTECH&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=i-MMANTECH&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B0B0C&text_color=2A2A2E&langs_count=8"
+    />
+    <img
+      height="175"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-MMANTECH&layout=compact&hide_border=true&langs_count=8"
+      alt="Most used languages"
+    />
+  </picture>
 </a>
 
 <br/>
 
+<!-- Streak — theme-adaptive -->
 <a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=i-MMANTECH&hide_border=true&background=0D1117&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    alt="GitHub streak"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=i-MMANTECH&hide_border=true&background=0D1117&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=i-MMANTECH&hide_border=true&background=FFFFFF&stroke=FFFFFF&ring=0B0B0C&fire=0B0B0C&currStreakLabel=0B0B0C&sideLabels=2A2A2E&dates=2A2A2E&currStreakNum=0B0B0C&sideNums=0B0B0C"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=i-MMANTECH&hide_border=true"
+      alt="GitHub streak"
+    />
+  </picture>
 </a>
 
 <br/><br/>
 
-<!-- activity graph -->
+<!-- Activity graph — theme-adaptive -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=i-MMANTECH&bg_color=0D1117&color=ffffff&line=ffffff&point=C9D1D9&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Activity"
-    alt="Contribution activity"
-    width="96%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=i-MMANTECH&bg_color=0D1117&color=ffffff&line=ffffff&point=C9D1D9&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Activity"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=i-MMANTECH&bg_color=FFFFFF&color=0B0B0C&line=0B0B0C&point=2A2A2E&area=true&area_color=CCCCCC&hide_border=true&custom_title=Contribution%20Activity"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=i-MMANTECH&area=true&hide_border=true&custom_title=Contribution%20Activity"
+      alt="Contribution activity"
+      width="96%"
+    />
+  </picture>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=i-MMANTECH&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
-    alt="GitHub trophies"
+<!-- Snake contribution graph — generated daily by .github/workflows/snake.yml -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/i-MMANTECH/i-MMANTECH/output/github-contribution-grid-snake-dark.svg"
   />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/i-MMANTECH/i-MMANTECH/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/i-MMANTECH/i-MMANTECH/output/github-contribution-grid-snake.svg"
+    alt="Snake eating my contributions"
+  />
+</picture>
+
+<br/><br/>
+
+<!-- Trophies — theme-adaptive -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=i-MMANTECH&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy.vercel.app/?username=i-MMANTECH&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
+    />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=i-MMANTECH&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
+      alt="GitHub trophies"
+    />
+  </picture>
 </a>
 
 </div>
@@ -215,8 +322,6 @@ Productionized for institutions, enterprises, and live events.
 </tr>
 </table>
 
-> ℹ️ Replace the repo links above by wrapping each project card in `<a href="https://github.com/i-MMANTECH/REPO-NAME">...</a>` once you standardize your project repo names.
-
 ---
 
 ## // currently
@@ -232,17 +337,20 @@ Productionized for institutions, enterprises, and live events.
 
 <div align="center">
 
-<a href="mailto:emmanuelaro87@gmail.com">
-  <img src="https://img.shields.io/badge/-EMAIL-0B0B0C?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0B0B0C" alt="Email" />
+<a href="https://emmanuelaro.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/-PORTFOLIO-0B0B0C?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=0B0B0C" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/emmanuel-aro-8710972a9" target="_blank">
+  <img src="https://img.shields.io/badge/-LINKEDIN-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0B0C" alt="LinkedIn" />
+</a>
+<a href="https://x.com/imman_tech1" target="_blank">
+  <img src="https://img.shields.io/badge/-X%20%2F%20TWITTER-0B0B0C?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0B0B0C" alt="X / Twitter" />
 </a>
 <a href="https://github.com/i-MMANTECH">
   <img src="https://img.shields.io/badge/-GITHUB-0B0B0C?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B0C" alt="GitHub" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0B0C" alt="LinkedIn" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/-PORTFOLIO-0B0B0C?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=0B0B0C" alt="Portfolio" />
+<a href="mailto:emmanuelaro87@gmail.com">
+  <img src="https://img.shields.io/badge/-EMAIL-0B0B0C?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0B0B0C" alt="Email" />
 </a>
 
 </div>
