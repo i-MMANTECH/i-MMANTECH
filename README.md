@@ -15,15 +15,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=F2F2F2&background=00000000&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Full+Stack+Engineer;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=F2F2F2&background=00000000&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Software+Engineering+Nerd;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0B0B0C&background=FFFFFF00&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Full+Stack+Engineer;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0B0B0C&background=FFFFFF00&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Software+Engineering+Nerd;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0B0B0C&background=FFFFFF00&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Full+Stack+Engineer;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
-      alt="Emmanuel Aro — Full Stack Engineer · Systems. Platforms. Applied AI."
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=0B0B0C&background=FFFFFF00&center=true&vCenter=true&width=780&lines=Emmanuel+Aro+%E2%80%94+Software+Engineering+Nerd;Systems.+Platforms.+Applied+AI.;Django+Ninja+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Shipping+production-grade+software."
+      alt="Emmanuel Aro — Software Engineering Nerd · Systems. Platforms. Applied AI."
     />
   </picture>
 </a>
@@ -49,34 +49,9 @@
 
 ---
 
-## // whoami
+## // about
 
-```ts
-const emmanuel = {
-  role:      "Full Stack Software Engineer",
-  focus:     ["Systems", "Platforms", "Applied AI"],
-  location:  "Lagos, Nigeria",
-  stack: {
-    backend:   ["Django Ninja", "Django", "PostgreSQL", "JWT"],
-    frontend:  ["Next.js (App Router)", "TypeScript", "Tailwind", "Shadcn/UI"],
-    infra:     ["Docker", "AWS", "CI/CD"],
-    ml:        ["Scikit-learn", "TensorFlow", "OpenCV", "NLP"],
-  },
-  currentlyShipping: [
-    "TaskForge Pro — team-management platform",
-    "Omnichannel CRM — scalable messaging infrastructure",
-    "Predictive security + NLP research",
-  ],
-  principles: [
-    "Typed contracts at every boundary.",
-    "Containerize from day one.",
-    "Measure latency. Measure everything.",
-    "Ship the system, not the code.",
-  ],
-};
-```
-
-I'm a Full Stack Engineer building scalable, production-grade platforms at the intersection of web systems and applied machine learning. I work end-to-end across **Django Ninja** on the backend and **Next.js (App Router) + TypeScript** on the frontend, with a discipline built around strict typing, containerized delivery, and measurable system outcomes. I care about defensible API surfaces, decoupled architecture, and infrastructure that holds under load.
+I'm a **Software Engineering Nerd** — obsessive about the craft of building scalable, production-grade platforms at the intersection of web systems and applied machine learning. I operate end-to-end as a Full Stack Software Engineer across **Django Ninja** on the backend and **Next.js (App Router) + TypeScript** on the frontend, with a discipline built around strict typing, containerized delivery, and measurable system outcomes. I care about defensible API surfaces, decoupled architecture, and infrastructure that holds under load.
 
 ---
 
