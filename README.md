@@ -214,24 +214,6 @@ I'm a **Software Engineering Nerd** — obsessive about the craft of building sc
   </picture>
 </a>
 
-<br/><br/>
-
-<!-- Snake contribution graph — generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/i-MMANTECH/i-MMANTECH/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/i-MMANTECH/i-MMANTECH/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/i-MMANTECH/i-MMANTECH/output/github-contribution-grid-snake.svg"
-    alt="Snake eating my contributions"
-  />
-</picture>
-
 </div>
 
 ---
