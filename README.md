@@ -232,26 +232,6 @@ I'm a **Software Engineering Nerd** — obsessive about the craft of building sc
   />
 </picture>
 
-<br/><br/>
-
-<!-- Trophies — theme-adaptive -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=i-MMANTECH&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=i-MMANTECH&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
-    />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=i-MMANTECH&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"
-      alt="GitHub trophies"
-    />
-  </picture>
-</a>
-
 </div>
 
 ---
