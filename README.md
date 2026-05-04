@@ -136,44 +136,18 @@ I'm a **Software Engineering Nerd** — obsessive about the craft of building sc
 
 <div align="center">
 
-<!-- Stats + Top Languages — theme-adaptive -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=i-MMANTECH&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=i-MMANTECH&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0B0B0C&icon_color=0B0B0C&text_color=2A2A2E&include_all_commits=true&count_private=true&rank_icon=github"
-    />
-    <img
-      height="175"
-      src="https://github-readme-stats.vercel.app/api?username=i-MMANTECH&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-      alt="Emmanuel's GitHub stats"
-    />
-  </picture>
+<!-- High-level numeric badges (shields.io — never breaks) -->
+<a href="https://github.com/i-MMANTECH">
+  <img src="https://img.shields.io/github/followers/i-MMANTECH?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0B0B0C&color=A6F500" alt="Followers" />
+</a>
+<a href="https://github.com/i-MMANTECH?tab=repositories">
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-65%2B-A6F500?style=for-the-badge&logo=github&logoColor=A6F500&labelColor=0B0B0C" alt="Public repos" />
+</a>
+<a href="https://github.com/i-MMANTECH">
+  <img src="https://komarev.com/ghpvc/?username=i-MMANTECH&style=for-the-badge&color=A6F500&labelColor=0B0B0C&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=i-MMANTECH&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=i-MMANTECH&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0B0B0C&text_color=2A2A2E&langs_count=8"
-    />
-    <img
-      height="175"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-MMANTECH&layout=compact&hide_border=true&langs_count=8"
-      alt="Most used languages"
-    />
-  </picture>
-</a>
-
-<br/>
+<br/><br/>
 
 <!-- Streak — theme-adaptive -->
 <a href="https://git.io/streak-stats">
