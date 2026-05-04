@@ -224,47 +224,64 @@ I'm a **Software Engineering Nerd** — obsessive about the craft of building sc
 <tr>
 <td width="50%" valign="top">
 
-### TaskForge Pro
-High-throughput team-management platform.
-**Django Ninja · Next.js · PostgreSQL · Docker · JWT**
-Decoupled service boundary, strict typed API contracts, hardened auth surface.
+### [Personal Portfolio →](https://github.com/i-MMANTECH/Personal-Portfolio)
+Brutalist / Precision portfolio with electric-lime accent, scroll-spy nav, magnetic CTA, and live Lagos clock. Theme-adaptive, fully responsive.
+**Next.js 15 · TypeScript · Tailwind 4 · App Router**
+Live → [emmanuelaro.netlify.app](https://emmanuelaro.netlify.app)
 
 </td>
 <td width="50%" valign="top">
 
-### Malware Detection System
-ML-driven security platform for real-time malware identification and classification.
-**Python · Scikit-learn · Security ML**
-Retrainable pipeline, predictive threat analysis for enterprise endpoints.
+### [Nativetalk Ticketing →](https://github.com/i-MMANTECH/Ticket-Matrix)
+Centralized ticket-management dashboard for the Nativetalk support stack. Tracks customer inquiries, agent assignment, and completion-rate metrics.
+**Next.js · TypeScript · REST APIs · Vercel**
+Live → [ticket-matrix-six.vercel.app](https://ticket-matrix-six.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Named Entity Recognition (NER)
-NLP pipeline extracting persons, locations, and dates from unstructured text.
-**Python · NLP · Information Retrieval**
-Reusable structured-output component for search and ingest pipelines.
+### [Hybrid Malware Detection Framework →](https://github.com/i-MMANTECH/Hybrid-Malware-Detection-Framework)
+Multi-modal Deep Learning framework for malware classification. Implements a dual-branch architecture combining static + dynamic features.
+**Python · Deep Learning · Multi-modal ML · Security**
 
 </td>
 <td width="50%" valign="top">
 
-### Facial Recognition Attendance
-Computer-vision attendance platform with webcam capture and secured event log.
-**PHP · JavaScript · OpenCV**
-Productionized for institutions, enterprises, and live events.
+### [English / Yoruba Transformer →](https://github.com/i-MMANTECH/English_Yoruba_Transformer)
+NLP transformer for English ↔ Yoruba translation. Localization research targeting low-resource West African languages.
+**Python · Transformers · NLP · PyTorch**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Malware Detection (Python ML) →](https://github.com/i-MMANTECH/Malware-Detection-Python-Project)
+Predictive security platform applying supervised ML to real-time malware identification and classification.
+**Python · Scikit-learn · Pandas · Jupyter**
+
+</td>
+<td width="50%" valign="top">
+
+### [TaskForge Pro →](https://github.com/i-MMANTECH/taskforge-pro-777)
+High-throughput team-management platform with strict typed API contracts and hardened JWT auth surface. Tech4mation production work.
+**TypeScript · Django Ninja · PostgreSQL · Docker**
 
 </td>
 </tr>
 </table>
 
+> 🛠️ **More on GitHub** — Django REST APIs, React movie apps, full-stack dApp wallet connectors, computer-vision experiments, and the legacy CYBERBUDDIES / Bincom client work. [Browse all repos →](https://github.com/i-MMANTECH?tab=repositories)
+
 ---
 
 ## // currently
 
-- **Engineering** → `TaskForge Pro` and the `omnichannel-crm` service at Tech4mation (NativeTalk).
-- **Researching** → applied ML for endpoint security and NLP for content-integrity systems.
+- **Engineering** → `Nativetalk Ticketing`, `TaskForge Pro`, and the `omnichannel-crm` service at Tech4mation (NativeTalk).
+- **Building** → `Boxonia Blueprint` — global film-production digital ecosystem with talent-booking layer.
+- **Researching** → applied ML for endpoint security (hybrid DL malware detection) + NLP for low-resource languages (English ↔ Yoruba).
 - **Hardening** → containerized delivery, typed API contracts, and production observability.
 - **Open to** → senior / staff engineering conversations and collaboration on high-leverage AI/ML work.
 
